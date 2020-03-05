@@ -1,0 +1,24 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_brunoodiaz/brunoodiaz_093_487Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 18th file : ../data/pictures_brunoodiaz/brunoodiaz_006_893Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 32th file : ../data/pictures_brunoodiaz/brunoodiaz_049_1534Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 44th file : ../data/pictures_brunoodiaz/brunoodiaz_033_1065Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_brunoodiaz/brunoodiaz_031_1270Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_brunoodiaz/brunoodiaz_037_1814Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
