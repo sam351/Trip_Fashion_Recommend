@@ -1,0 +1,11 @@
+>>> Setting palette dict of 81 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 30th file : ../data/pictures_7th.chris/7th.chris_075_510Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_7th.chris/7th.chris_065_880Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Finished Saving!
