@@ -1,0 +1,34 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 24th file : ../data/pictures_santos_michel/santos_michel_105_325Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 34th file : ../data/pictures_santos_michel/santos_michel_035_499Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_santos_michel/santos_michel_033_478Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_santos_michel/santos_michel_034_474Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_santos_michel/santos_michel_061_2100Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 60th file : ../data/pictures_santos_michel/santos_michel_050_1320Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_santos_michel/santos_michel_086_1337Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 74th file : ../data/pictures_santos_michel/santos_michel_098_659Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 76th file : ../data/pictures_santos_michel/santos_michel_036_527Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 78 results into json!
