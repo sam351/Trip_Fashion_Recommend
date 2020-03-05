@@ -1,0 +1,68 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_2algerianstravel/2algerianstravel_052_24038Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 7th file : ../data/pictures_2algerianstravel/2algerianstravel_030_20215Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 10th file : ../data/pictures_2algerianstravel/2algerianstravel_020_15763Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 12th file : ../data/pictures_2algerianstravel/2algerianstravel_015_18730Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 14th file : ../data/pictures_2algerianstravel/2algerianstravel_100_15099Likes.png
+	 
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 16th file : ../data/pictures_2algerianstravel/2algerianstravel_050_16360Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 26th file : ../data/pictures_2algerianstravel/2algerianstravel_006_17445Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_2algerianstravel/2algerianstravel_092_25390Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_2algerianstravel/2algerianstravel_041_18461Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 40th file : ../data/pictures_2algerianstravel/2algerianstravel_068_26966Likes.png
+	 
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 41th file : ../data/pictures_2algerianstravel/2algerianstravel_025_16415Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 43th file : ../data/pictures_2algerianstravel/2algerianstravel_045_15481Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 49th file : ../data/pictures_2algerianstravel/2algerianstravel_111_31866Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 50th file : ../data/pictures_2algerianstravel/2algerianstravel_144_22485Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 54th file : ../data/pictures_2algerianstravel/2algerianstravel_080_15703Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 58th file : ../data/pictures_2algerianstravel/2algerianstravel_137_21697Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 69th file : ../data/pictures_2algerianstravel/2algerianstravel_035_21369Likes.png
+	 
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_2algerianstravel/2algerianstravel_110_16006Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 72th file : ../data/pictures_2algerianstravel/2algerianstravel_044_20022Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 73th file : ../data/pictures_2algerianstravel/2algerianstravel_029_24324Likes.png
+	 
+>>> Error : No person is detected from the given picture!
+>>> Error in 74th file : ../data/pictures_2algerianstravel/2algerianstravel_112_18978Likes.png
+	 
+>>> Finished setting palette dict!
+
+>>> Finished Saving!
