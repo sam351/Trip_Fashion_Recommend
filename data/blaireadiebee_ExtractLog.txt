@@ -1,0 +1,38 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 7th file : ../data/pictures_blaireadiebee/blaireadiebee_118_34918Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_blaireadiebee/blaireadiebee_114_29460Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 14th file : ../data/pictures_blaireadiebee/blaireadiebee_043_39390Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_blaireadiebee/blaireadiebee_126_25357Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_blaireadiebee/blaireadiebee_079_38456Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 68th file : ../data/pictures_blaireadiebee/blaireadiebee_024_36808Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 70th file : ../data/pictures_blaireadiebee/blaireadiebee_016_83167Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 75th file : ../data/pictures_blaireadiebee/blaireadiebee_026_27777Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 76th file : ../data/pictures_blaireadiebee/blaireadiebee_036_64466Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 74 results into json!
