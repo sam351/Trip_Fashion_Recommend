@@ -1,0 +1,18 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 16th file : ../data/pictures_aglamlifestyle/aglamlifestyle_148_780Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 24th file : ../data/pictures_aglamlifestyle/aglamlifestyle_009_1687Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 57th file : ../data/pictures_aglamlifestyle/aglamlifestyle_105_3223Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 77th file : ../data/pictures_aglamlifestyle/aglamlifestyle_073_1522Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
