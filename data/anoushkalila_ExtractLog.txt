@@ -1,0 +1,66 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_anoushkalila/anoushkalila_021_5727Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 6th file : ../data/pictures_anoushkalila/anoushkalila_035_3572Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_anoushkalila/anoushkalila_139_4982Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 13th file : ../data/pictures_anoushkalila/anoushkalila_019_6397Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 17th file : ../data/pictures_anoushkalila/anoushkalila_015_3346Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 21th file : ../data/pictures_anoushkalila/anoushkalila_137_4513Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 29th file : ../data/pictures_anoushkalila/anoushkalila_017_6391Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 31th file : ../data/pictures_anoushkalila/anoushkalila_048_5561Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 33th file : ../data/pictures_anoushkalila/anoushkalila_044_3443Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 37th file : ../data/pictures_anoushkalila/anoushkalila_094_3636Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 41th file : ../data/pictures_anoushkalila/anoushkalila_144_4220Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_anoushkalila/anoushkalila_016_7875Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 49th file : ../data/pictures_anoushkalila/anoushkalila_025_6254Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_anoushkalila/anoushkalila_060_6916Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 57th file : ../data/pictures_anoushkalila/anoushkalila_134_3858Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 68th file : ../data/pictures_anoushkalila/anoushkalila_046_3258Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 79th file : ../data/pictures_anoushkalila/anoushkalila_082_3915Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 70 results into json!
