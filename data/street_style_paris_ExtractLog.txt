@@ -1,0 +1,50 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 2th file : ../data/pictures_street_style_paris/street_style_paris_100_2070Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_street_style_paris/street_style_paris_037_2980Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 20th file : ../data/pictures_street_style_paris/street_style_paris_119_1977Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_street_style_paris/street_style_paris_056_3320Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_street_style_paris/street_style_paris_077_6450Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 31th file : ../data/pictures_street_style_paris/street_style_paris_126_2118Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_street_style_paris/street_style_paris_075_2237Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 34th file : ../data/pictures_street_style_paris/street_style_paris_042_3061Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_street_style_paris/street_style_paris_058_5590Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_street_style_paris/street_style_paris_057_3534Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 49th file : ../data/pictures_street_style_paris/street_style_paris_006_4047Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_street_style_paris/street_style_paris_074_2633Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 78th file : ../data/pictures_street_style_paris/street_style_paris_017_4104Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 79th file : ../data/pictures_street_style_paris/street_style_paris_016_2479Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 77 results into json!
