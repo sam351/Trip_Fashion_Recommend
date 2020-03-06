@@ -1,0 +1,95 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 2th file : ../data/pictures_jessmeupblog/jessmeupblog_150_5813Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_jessmeupblog/jessmeupblog_129_5067Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 4th file : ../data/pictures_jessmeupblog/jessmeupblog_136_4680Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_jessmeupblog/jessmeupblog_084_5895Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 8th file : ../data/pictures_jessmeupblog/jessmeupblog_041_6582Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_jessmeupblog/jessmeupblog_022_4712Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 14th file : ../data/pictures_jessmeupblog/jessmeupblog_027_6016Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_jessmeupblog/jessmeupblog_039_6293Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_jessmeupblog/jessmeupblog_036_5032Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_jessmeupblog/jessmeupblog_146_7235Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 31th file : ../data/pictures_jessmeupblog/jessmeupblog_126_4968Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_jessmeupblog/jessmeupblog_112_4582Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 34th file : ../data/pictures_jessmeupblog/jessmeupblog_047_6008Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 35th file : ../data/pictures_jessmeupblog/jessmeupblog_018_6603Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_jessmeupblog/jessmeupblog_086_6039Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 39th file : ../data/pictures_jessmeupblog/jessmeupblog_009_5337Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_jessmeupblog/jessmeupblog_135_5521Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 48th file : ../data/pictures_jessmeupblog/jessmeupblog_074_5750Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_jessmeupblog/jessmeupblog_061_6132Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_jessmeupblog/jessmeupblog_008_6643Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_jessmeupblog/jessmeupblog_044_6287Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_jessmeupblog/jessmeupblog_119_6592Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 60th file : ../data/pictures_jessmeupblog/jessmeupblog_105_5057Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_jessmeupblog/jessmeupblog_054_5314Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 68th file : ../data/pictures_jessmeupblog/jessmeupblog_120_6077Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 70th file : ../data/pictures_jessmeupblog/jessmeupblog_085_6632Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_jessmeupblog/jessmeupblog_023_5559Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 75th file : ../data/pictures_jessmeupblog/jessmeupblog_118_6039Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 76th file : ../data/pictures_jessmeupblog/jessmeupblog_104_6371Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 79th file : ../data/pictures_jessmeupblog/jessmeupblog_072_4706Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 80 results into json!
