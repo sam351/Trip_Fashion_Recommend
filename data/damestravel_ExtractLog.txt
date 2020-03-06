@@ -1,0 +1,148 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 1th file : ../data/pictures_damestravel/damestravel_024_7747Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 4th file : ../data/pictures_damestravel/damestravel_104_9387Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_damestravel/damestravel_067_5739Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 8th file : ../data/pictures_damestravel/damestravel_039_4228Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 9th file : ../data/pictures_damestravel/damestravel_106_4799Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 11th file : ../data/pictures_damestravel/damestravel_055_5947Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 14th file : ../data/pictures_damestravel/damestravel_007_4518Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 15th file : ../data/pictures_damestravel/damestravel_074_16991Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 16th file : ../data/pictures_damestravel/damestravel_027_5125Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 21th file : ../data/pictures_damestravel/damestravel_134_5299Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 22th file : ../data/pictures_damestravel/damestravel_125_12936Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 25th file : ../data/pictures_damestravel/damestravel_084_3619Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 27th file : ../data/pictures_damestravel/damestravel_054_3828Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_damestravel/damestravel_078_4182Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 29th file : ../data/pictures_damestravel/damestravel_042_7609Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 32th file : ../data/pictures_damestravel/damestravel_136_6393Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 34th file : ../data/pictures_damestravel/damestravel_090_8663Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 35th file : ../data/pictures_damestravel/damestravel_145_10678Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 36th file : ../data/pictures_damestravel/damestravel_083_5147Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 37th file : ../data/pictures_damestravel/damestravel_044_4411Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 38th file : ../data/pictures_damestravel/damestravel_088_4096Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 44th file : ../data/pictures_damestravel/damestravel_010_5809Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 47th file : ../data/pictures_damestravel/damestravel_071_4843Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 50th file : ../data/pictures_damestravel/damestravel_111_3908Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 53th file : ../data/pictures_damestravel/damestravel_065_4322Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 58th file : ../data/pictures_damestravel/damestravel_034_4100Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 59th file : ../data/pictures_damestravel/damestravel_057_6184Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 61th file : ../data/pictures_damestravel/damestravel_073_6883Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 63th file : ../data/pictures_damestravel/damestravel_028_7323Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 65th file : ../data/pictures_damestravel/damestravel_133_4104Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 67th file : ../data/pictures_damestravel/damestravel_092_4041Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 72th file : ../data/pictures_damestravel/damestravel_094_3670Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 73th file : ../data/pictures_damestravel/damestravel_076_5158Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_damestravel/damestravel_032_4344Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 76th file : ../data/pictures_damestravel/damestravel_119_5945Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 77th file : ../data/pictures_damestravel/damestravel_086_6660Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 80th file : ../data/pictures_damestravel/damestravel_014_3748Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 48 results into json!
