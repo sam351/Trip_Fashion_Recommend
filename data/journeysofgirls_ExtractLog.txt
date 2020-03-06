@@ -1,0 +1,108 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 2th file : ../data/pictures_journeysofgirls/journeysofgirls_122_2583Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 3th file : ../data/pictures_journeysofgirls/journeysofgirls_111_9419Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 7th file : ../data/pictures_journeysofgirls/journeysofgirls_131_4262Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 9th file : ../data/pictures_journeysofgirls/journeysofgirls_135_4651Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 10th file : ../data/pictures_journeysofgirls/journeysofgirls_137_4087Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 18th file : ../data/pictures_journeysofgirls/journeysofgirls_113_3010Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 32th file : ../data/pictures_journeysofgirls/journeysofgirls_120_4401Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 34th file : ../data/pictures_journeysofgirls/journeysofgirls_116_6192Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 35th file : ../data/pictures_journeysofgirls/journeysofgirls_058_2836Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 36th file : ../data/pictures_journeysofgirls/journeysofgirls_130_3015Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 37th file : ../data/pictures_journeysofgirls/journeysofgirls_133_4452Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 39th file : ../data/pictures_journeysofgirls/journeysofgirls_140_2956Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 41th file : ../data/pictures_journeysofgirls/journeysofgirls_078_3806Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 46th file : ../data/pictures_journeysofgirls/journeysofgirls_049_4157Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 48th file : ../data/pictures_journeysofgirls/journeysofgirls_144_3470Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_journeysofgirls/journeysofgirls_080_2736Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 52th file : ../data/pictures_journeysofgirls/journeysofgirls_015_5703Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 54th file : ../data/pictures_journeysofgirls/journeysofgirls_068_4835Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_journeysofgirls/journeysofgirls_046_2640Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 63th file : ../data/pictures_journeysofgirls/journeysofgirls_082_2784Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 64th file : ../data/pictures_journeysofgirls/journeysofgirls_030_8426Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 66th file : ../data/pictures_journeysofgirls/journeysofgirls_003_3324Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_journeysofgirls/journeysofgirls_073_3618Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_journeysofgirls/journeysofgirls_048_2730Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 75th file : ../data/pictures_journeysofgirls/journeysofgirls_063_6753Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 76th file : ../data/pictures_journeysofgirls/journeysofgirls_043_2682Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 78th file : ../data/pictures_journeysofgirls/journeysofgirls_065_5320Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 58 results into json!
