@@ -1,0 +1,81 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_stylesightspotlight/stylesightspotlight_098_2537Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 4th file : ../data/pictures_stylesightspotlight/stylesightspotlight_140_1161Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_stylesightspotlight/stylesightspotlight_006_821Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_stylesightspotlight/stylesightspotlight_149_1590Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_stylesightspotlight/stylesightspotlight_143_1025Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_stylesightspotlight/stylesightspotlight_036_1599Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_stylesightspotlight/stylesightspotlight_073_2458Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 16th file : ../data/pictures_stylesightspotlight/stylesightspotlight_138_2151Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 20th file : ../data/pictures_stylesightspotlight/stylesightspotlight_141_621Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_stylesightspotlight/stylesightspotlight_024_533Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_stylesightspotlight/stylesightspotlight_067_975Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_stylesightspotlight/stylesightspotlight_043_628Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_stylesightspotlight/stylesightspotlight_032_726Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 40th file : ../data/pictures_stylesightspotlight/stylesightspotlight_127_3459Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 44th file : ../data/pictures_stylesightspotlight/stylesightspotlight_120_490Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 48th file : ../data/pictures_stylesightspotlight/stylesightspotlight_128_1981Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_stylesightspotlight/stylesightspotlight_005_1087Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_stylesightspotlight/stylesightspotlight_069_1543Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_stylesightspotlight/stylesightspotlight_094_597Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 65th file : ../data/pictures_stylesightspotlight/stylesightspotlight_060_808Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 68th file : ../data/pictures_stylesightspotlight/stylesightspotlight_142_1290Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 72th file : ../data/pictures_stylesightspotlight/stylesightspotlight_016_714Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 77th file : ../data/pictures_stylesightspotlight/stylesightspotlight_150_864Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 80th file : ../data/pictures_stylesightspotlight/stylesightspotlight_057_448Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 78 results into json!
+
+>>> Successfully saved 78 bbox lists into json!
