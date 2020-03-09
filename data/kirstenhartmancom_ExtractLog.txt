@@ -1,0 +1,67 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_045_1222Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_120_1614Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_033_1341Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_008_1324Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_119_1467Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_015_2245Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_117_1466Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_042_1253Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 30th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_128_1485Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_023_1605Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 35th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_020_1851Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 41th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_021_2279Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 44th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_140_1424Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_055_1410Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_092_1407Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_118_2176Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 54th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_073_1392Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 61th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_138_1260Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_028_1381Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 73th file : ../data/pictures_kirstenhartmancom/kirstenhartmancom_014_1563Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 80 results into json!
+
+>>> Successfully saved 80 bbox lists into json!
