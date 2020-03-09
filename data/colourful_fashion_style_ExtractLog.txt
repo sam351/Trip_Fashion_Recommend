@@ -1,0 +1,106 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_084_129Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_041_58Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_067_57Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_126_173Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 12th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_098_109Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 14th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_103_134Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 19th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_082_121Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 24th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_125_137Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 27th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_055_54Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_089_79Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 32th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_110_112Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_092_116Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_018_85Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 39th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_020_88Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 41th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_062_58Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_015_70Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 44th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_013_78Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_087_119Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_108_119Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 48th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_014_84Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 50th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_118_223Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 51th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_071_60Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_032_143Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_061_56Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 61th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_113_125Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_130_222Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_100_125Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 67th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_021_100Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 69th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_030_97Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 73th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_054_56Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 79th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_123_220Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 80th file : ../data/pictures_colourful_fashion_style/colourful_fashion_style_066_77Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 75 results into json!

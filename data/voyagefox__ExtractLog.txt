@@ -1,0 +1,98 @@
+>>> Setting palette dict of 53 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 2th file : ../data/pictures_voyagefox_/voyagefox__043_4540Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 3th file : ../data/pictures_voyagefox_/voyagefox__103_8229Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 6th file : ../data/pictures_voyagefox_/voyagefox__114_5735Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 12th file : ../data/pictures_voyagefox_/voyagefox__106_5520Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 14th file : ../data/pictures_voyagefox_/voyagefox__038_5367Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 15th file : ../data/pictures_voyagefox_/voyagefox__042_9357Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 16th file : ../data/pictures_voyagefox_/voyagefox__134_6581Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 23th file : ../data/pictures_voyagefox_/voyagefox__036_7958Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 24th file : ../data/pictures_voyagefox_/voyagefox__094_5831Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 25th file : ../data/pictures_voyagefox_/voyagefox__039_8275Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 26th file : ../data/pictures_voyagefox_/voyagefox__082_4748Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 27th file : ../data/pictures_voyagefox_/voyagefox__078_7006Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 28th file : ../data/pictures_voyagefox_/voyagefox__131_5271Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 29th file : ../data/pictures_voyagefox_/voyagefox__045_3530Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 30th file : ../data/pictures_voyagefox_/voyagefox__145_6723Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 31th file : ../data/pictures_voyagefox_/voyagefox__101_5026Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 34th file : ../data/pictures_voyagefox_/voyagefox__044_3352Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 35th file : ../data/pictures_voyagefox_/voyagefox__057_5858Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 36th file : ../data/pictures_voyagefox_/voyagefox__024_7667Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 39th file : ../data/pictures_voyagefox_/voyagefox__111_7317Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 44th file : ../data/pictures_voyagefox_/voyagefox__102_11148Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 45th file : ../data/pictures_voyagefox_/voyagefox__129_5769Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 49th file : ../data/pictures_voyagefox_/voyagefox__116_5950Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 52th file : ../data/pictures_voyagefox_/voyagefox__117_4363Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 32 results into json!

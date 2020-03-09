@@ -1,0 +1,84 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_cocobeautea/cocobeautea_016_32490Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_cocobeautea/cocobeautea_045_33476Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_cocobeautea/cocobeautea_032_33652Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_cocobeautea/cocobeautea_117_28036Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_cocobeautea/cocobeautea_101_28700Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_cocobeautea/cocobeautea_141_35014Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_cocobeautea/cocobeautea_039_30209Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 16th file : ../data/pictures_cocobeautea/cocobeautea_057_27122Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 18th file : ../data/pictures_cocobeautea/cocobeautea_127_29049Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_cocobeautea/cocobeautea_123_24810Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 24th file : ../data/pictures_cocobeautea/cocobeautea_085_47447Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_cocobeautea/cocobeautea_041_25223Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_cocobeautea/cocobeautea_059_32690Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_cocobeautea/cocobeautea_126_50573Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 41th file : ../data/pictures_cocobeautea/cocobeautea_035_38014Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_cocobeautea/cocobeautea_135_26320Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 48th file : ../data/pictures_cocobeautea/cocobeautea_114_32614Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_cocobeautea/cocobeautea_147_24997Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 57th file : ../data/pictures_cocobeautea/cocobeautea_103_31584Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_cocobeautea/cocobeautea_029_26557Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 62th file : ../data/pictures_cocobeautea/cocobeautea_105_25303Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_cocobeautea/cocobeautea_086_34535Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 72th file : ../data/pictures_cocobeautea/cocobeautea_052_27947Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 73th file : ../data/pictures_cocobeautea/cocobeautea_055_28113Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_cocobeautea/cocobeautea_107_37559Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 76th file : ../data/pictures_cocobeautea/cocobeautea_042_29373Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 79th file : ../data/pictures_cocobeautea/cocobeautea_120_28525Likes.png
+
+>>> Successfully saved 78 results into json!

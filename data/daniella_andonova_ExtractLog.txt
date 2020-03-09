@@ -1,0 +1,37 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_daniella_andonova/daniella_andonova_008_17Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 4th file : ../data/pictures_daniella_andonova/daniella_andonova_024_20Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 14th file : ../data/pictures_daniella_andonova/daniella_andonova_032_16Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 17th file : ../data/pictures_daniella_andonova/daniella_andonova_125_32Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 21th file : ../data/pictures_daniella_andonova/daniella_andonova_007_24Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_daniella_andonova/daniella_andonova_046_32Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 42th file : ../data/pictures_daniella_andonova/daniella_andonova_074_32Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 49th file : ../data/pictures_daniella_andonova/daniella_andonova_091_21Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 56th file : ../data/pictures_daniella_andonova/daniella_andonova_028_12Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 59th file : ../data/pictures_daniella_andonova/daniella_andonova_116_27Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 78 results into json!

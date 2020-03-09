@@ -1,0 +1,24 @@
+>>> Setting palette dict of 81 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 8th file : ../data/pictures_donnaromina/donnaromina_141_33133Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 51th file : ../data/pictures_donnaromina/donnaromina_089_24845Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_donnaromina/donnaromina_093_18328Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 54th file : ../data/pictures_donnaromina/donnaromina_150_16269Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_donnaromina/donnaromina_031_20287Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 68th file : ../data/pictures_donnaromina/donnaromina_142_15951Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 80 results into json!
