@@ -1,0 +1,35 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 8th file : ../data/pictures_styleandthebeach/styleandthebeach_088_2098Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_styleandthebeach/styleandthebeach_111_2370Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_styleandthebeach/styleandthebeach_096_2484Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 34th file : ../data/pictures_styleandthebeach/styleandthebeach_026_2358Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 42th file : ../data/pictures_styleandthebeach/styleandthebeach_046_4160Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 59th file : ../data/pictures_styleandthebeach/styleandthebeach_013_2280Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 60th file : ../data/pictures_styleandthebeach/styleandthebeach_009_2005Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 62th file : ../data/pictures_styleandthebeach/styleandthebeach_057_2835Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 77th file : ../data/pictures_styleandthebeach/styleandthebeach_047_2998Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
+
+>>> Successfully saved 79 bbox lists into json!
