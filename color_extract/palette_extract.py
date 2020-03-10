@@ -218,7 +218,7 @@ class PaletteExtract:
         file_path = f'../data/pictures_{self.account_name_}/{key}'
         img = self.load_image(file_path)
         
-        x, y, x_end, y_end = self.bbox_dict_[key]
+        x, y, x_end, y_end = self.bbox_dict_[key][0]
         y_edge = int((y_end - y) * 0.2)
         x_edge = int((x_end - x) * 0.2)
         img_cropped = img[ (y+y_edge):(y_end-y_edge), (x+x_edge):(x_end-x_edge) ]
