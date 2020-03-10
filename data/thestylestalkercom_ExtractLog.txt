@@ -1,0 +1,95 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_thestylestalkercom/thestylestalkercom_116_2738Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_thestylestalkercom/thestylestalkercom_054_2148Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_thestylestalkercom/thestylestalkercom_110_2794Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_thestylestalkercom/thestylestalkercom_084_3905Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_thestylestalkercom/thestylestalkercom_096_2696Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_thestylestalkercom/thestylestalkercom_140_8003Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_thestylestalkercom/thestylestalkercom_130_3698Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 14th file : ../data/pictures_thestylestalkercom/thestylestalkercom_092_3327Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 17th file : ../data/pictures_thestylestalkercom/thestylestalkercom_136_4129Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 21th file : ../data/pictures_thestylestalkercom/thestylestalkercom_133_4138Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_thestylestalkercom/thestylestalkercom_129_2712Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_thestylestalkercom/thestylestalkercom_042_5798Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_thestylestalkercom/thestylestalkercom_122_4369Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_thestylestalkercom/thestylestalkercom_143_3050Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 31th file : ../data/pictures_thestylestalkercom/thestylestalkercom_074_9669Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 34th file : ../data/pictures_thestylestalkercom/thestylestalkercom_025_4100Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 35th file : ../data/pictures_thestylestalkercom/thestylestalkercom_141_5087Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 41th file : ../data/pictures_thestylestalkercom/thestylestalkercom_078_4033Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 42th file : ../data/pictures_thestylestalkercom/thestylestalkercom_072_3122Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_thestylestalkercom/thestylestalkercom_081_2301Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_thestylestalkercom/thestylestalkercom_007_2522Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_thestylestalkercom/thestylestalkercom_006_4919Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 54th file : ../data/pictures_thestylestalkercom/thestylestalkercom_112_3094Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 61th file : ../data/pictures_thestylestalkercom/thestylestalkercom_065_4029Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 63th file : ../data/pictures_thestylestalkercom/thestylestalkercom_001_5411Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 70th file : ../data/pictures_thestylestalkercom/thestylestalkercom_039_3807Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 72th file : ../data/pictures_thestylestalkercom/thestylestalkercom_115_3954Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 75th file : ../data/pictures_thestylestalkercom/thestylestalkercom_077_2382Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 79th file : ../data/pictures_thestylestalkercom/thestylestalkercom_109_2551Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
+
+>>> Successfully saved 79 bbox lists into json!
