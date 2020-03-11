@@ -1,0 +1,41 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_rome_fashion_style/rome_fashion_style_113_752Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_rome_fashion_style/rome_fashion_style_015_385Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 26th file : ../data/pictures_rome_fashion_style/rome_fashion_style_127_448Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 44th file : ../data/pictures_rome_fashion_style/rome_fashion_style_094_515Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 49th file : ../data/pictures_rome_fashion_style/rome_fashion_style_064_1022Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 61th file : ../data/pictures_rome_fashion_style/rome_fashion_style_105_418Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 62th file : ../data/pictures_rome_fashion_style/rome_fashion_style_068_465Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 68th file : ../data/pictures_rome_fashion_style/rome_fashion_style_062_325Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 69th file : ../data/pictures_rome_fashion_style/rome_fashion_style_139_581Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 73th file : ../data/pictures_rome_fashion_style/rome_fashion_style_126_314Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_rome_fashion_style/rome_fashion_style_097_325Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
+
+>>> Successfully saved 79 bbox lists into json!
