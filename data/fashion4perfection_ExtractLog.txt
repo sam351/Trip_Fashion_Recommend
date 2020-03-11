@@ -1,0 +1,42 @@
+>>> Setting palette dict of 73 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_fashion4perfection/fashion4perfection_008_2374Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 4th file : ../data/pictures_fashion4perfection/fashion4perfection_034_6662Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_fashion4perfection/fashion4perfection_026_5292Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_fashion4perfection/fashion4perfection_010_3843Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_fashion4perfection/fashion4perfection_124_3203Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 19th file : ../data/pictures_fashion4perfection/fashion4perfection_031_3092Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 27th file : ../data/pictures_fashion4perfection/fashion4perfection_137_3460Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_fashion4perfection/fashion4perfection_045_2755Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 52th file : ../data/pictures_fashion4perfection/fashion4perfection_093_3448Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 59th file : ../data/pictures_fashion4perfection/fashion4perfection_108_3793Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 70th file : ../data/pictures_fashion4perfection/fashion4perfection_104_7271Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 71 results into json!
+
+>>> Successfully saved 71 bbox lists into json!
