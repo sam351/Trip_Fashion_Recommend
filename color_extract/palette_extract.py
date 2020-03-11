@@ -44,10 +44,10 @@ class PaletteExtract:
                 
                 img = self.load_image(file_path)  # 1. Load image
                 bbox, _, _ = self.detect_person(img, idx, file_path)  # 2. Detect the object 'person' from image
-                self.bbox_dict_[file_name] = bbox[0]  # Add bbox into bbox_dict_
+                self.bbox_dict_[file_name] = bbox  # Add bbox into bbox_dict_
                 
-                background_list = self.background_extract(img, bbox, col_num=10)  # 3. background extract
-                foreground_list = self.foreground_extract(img, bbox, col_num=10)  # 4. foreground extract
+                background_list = self.background_extract(img, bbox[0], col_num=10)  # 3. background extract
+                foreground_list = self.foreground_extract(img, bbox[0], col_num=10)  # 4. foreground extract
                 self.palette_dict_[file_name] = (background_list, foreground_list)  # Add palette pair into palette_dict_
             
             except Exception as e:
@@ -79,27 +79,34 @@ class PaletteExtract:
                   f'>>> Warning in {idx+1}th file : {file_path}\n'
             print(msg)
             self.log_list_.append(msg)
-            idx = label.index('person')
-            bbox = [bbox[idx]]
-            label = [label[idx]]
-            conf = [conf[idx]]
+            
+            area = [ (box[2]-box[0])*(box[3]-box[1]) for box in bbox ]
+            arranged_list = [ (area[idx], bbox[idx], label[idx], conf[idx]) for idx in range(len(label)) if label[idx]=='person' ]
+            arranged_list.sort(reverse=True)
+            
+            bbox = [ tup[1] for tup in arranged_list  ]
+            label = [ tup[2] for tup in arranged_list  ]
+            conf = [ tup[3] for tup in arranged_list  ]
+            
         elif label.count('person') == 1:   # Ideal case : only one main preson is detected
             idx = label.index('person')
             bbox = [bbox[idx]]
             label = [label[idx]]
             conf = [conf[idx]]
+            
         else:   # Exceptional case : No person is detected
             msg = f'>>> Error : No person is detected from the given picture!'
             print(msg)
             self.log_list_.append(msg)
             raise Exception
+            
         return bbox, label, conf
 
 
     # set_palette_dict - 3
     def background_extract(self, img, bbox, col_num=10):
         # Preprocess
-        x, y, x_end, y_end = bbox[0]
+        x, y, x_end, y_end = bbox
         top = img[ :y , : ]
         bottom = img[ y_end: , : ]
         left = img[ y:y_end , :x ]
@@ -124,7 +131,7 @@ class PaletteExtract:
     # set_palette_dict - 4
     def foreground_extract(self, img, bbox, col_num=10):
         # Preprocess
-        x, y, x_end, y_end = bbox[0]
+        x, y, x_end, y_end = bbox
         y_edge = int((y_end - y) * 0.2)
         x_edge = int((x_end - x) * 0.2)
 
@@ -211,7 +218,7 @@ class PaletteExtract:
         file_path = f'../data/pictures_{self.account_name_}/{key}'
         img = self.load_image(file_path)
         
-        x, y, x_end, y_end = self.bbox_dict_[key]
+        x, y, x_end, y_end = self.bbox_dict_[key][0]
         y_edge = int((y_end - y) * 0.2)
         x_edge = int((x_end - x) * 0.2)
         img_cropped = img[ (y+y_edge):(y_end-y_edge), (x+x_edge):(x_end-x_edge) ]
