@@ -1,0 +1,59 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_ootdmagazine/ootdmagazine_043_20998Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 16th file : ../data/pictures_ootdmagazine/ootdmagazine_082_27163Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 17th file : ../data/pictures_ootdmagazine/ootdmagazine_072_28855Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 18th file : ../data/pictures_ootdmagazine/ootdmagazine_100_18184Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 24th file : ../data/pictures_ootdmagazine/ootdmagazine_107_16801Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_ootdmagazine/ootdmagazine_027_15401Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 26th file : ../data/pictures_ootdmagazine/ootdmagazine_129_18207Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_ootdmagazine/ootdmagazine_077_25532Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 34th file : ../data/pictures_ootdmagazine/ootdmagazine_098_11664Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_ootdmagazine/ootdmagazine_121_23048Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 47th file : ../data/pictures_ootdmagazine/ootdmagazine_049_19270Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 48th file : ../data/pictures_ootdmagazine/ootdmagazine_094_14382Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_ootdmagazine/ootdmagazine_073_17437Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_ootdmagazine/ootdmagazine_008_11113Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 61th file : ../data/pictures_ootdmagazine/ootdmagazine_037_14060Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 65th file : ../data/pictures_ootdmagazine/ootdmagazine_119_16952Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 69th file : ../data/pictures_ootdmagazine/ootdmagazine_102_42744Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
+
+>>> Successfully saved 79 bbox lists into json!
