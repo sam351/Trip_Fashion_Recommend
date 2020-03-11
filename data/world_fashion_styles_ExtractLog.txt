@@ -1,0 +1,49 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_world_fashion_styles/world_fashion_styles_053_5380Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 10th file : ../data/pictures_world_fashion_styles/world_fashion_styles_129_3170Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 17th file : ../data/pictures_world_fashion_styles/world_fashion_styles_020_1711Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_world_fashion_styles/world_fashion_styles_086_2843Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_world_fashion_styles/world_fashion_styles_143_1127Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_world_fashion_styles/world_fashion_styles_150_1434Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_world_fashion_styles/world_fashion_styles_131_1807Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 48th file : ../data/pictures_world_fashion_styles/world_fashion_styles_023_1455Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 58th file : ../data/pictures_world_fashion_styles/world_fashion_styles_095_3361Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 59th file : ../data/pictures_world_fashion_styles/world_fashion_styles_123_1201Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 62th file : ../data/pictures_world_fashion_styles/world_fashion_styles_073_1440Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_world_fashion_styles/world_fashion_styles_126_2199Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 75th file : ../data/pictures_world_fashion_styles/world_fashion_styles_043_1735Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 77 results into json!
+
+>>> Successfully saved 77 bbox lists into json!
