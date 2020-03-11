@@ -1,0 +1,118 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 1th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_122_12593Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 2th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_038_10066Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 6th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_094_16596Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 8th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_135_20542Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 11th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_016_11139Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_013_21157Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_109_16373Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 15th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_030_10618Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 21th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_095_13272Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_138_50247Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 23th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_120_19976Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 25th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_150_19252Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 32th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_125_16626Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 33th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_108_13257Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 37th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_085_10908Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 41th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_128_12808Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 45th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_011_17542Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 47th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_115_13501Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_145_18156Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 52th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_028_10712Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 53th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_079_10520Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 56th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_082_11029Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 58th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_064_10555Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 62th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_130_14780Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_088_13220Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 65th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_056_13051Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_066_12377Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 73th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_146_19969Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 74th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_010_15659Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 78th file : ../data/pictures_lucyinthesskyy/lucyinthesskyy_134_21551Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 59 results into json!
+
+>>> Successfully saved 59 bbox lists into json!
