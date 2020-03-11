@@ -1,0 +1,65 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 1th file : ../data/pictures_rovebyronbay/rovebyronbay_043_504Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 4th file : ../data/pictures_rovebyronbay/rovebyronbay_098_798Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_rovebyronbay/rovebyronbay_071_536Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 13th file : ../data/pictures_rovebyronbay/rovebyronbay_085_549Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 25th file : ../data/pictures_rovebyronbay/rovebyronbay_022_764Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 30th file : ../data/pictures_rovebyronbay/rovebyronbay_089_927Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 35th file : ../data/pictures_rovebyronbay/rovebyronbay_126_387Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 40th file : ../data/pictures_rovebyronbay/rovebyronbay_078_487Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 41th file : ../data/pictures_rovebyronbay/rovebyronbay_144_513Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 42th file : ../data/pictures_rovebyronbay/rovebyronbay_068_508Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 57th file : ../data/pictures_rovebyronbay/rovebyronbay_030_600Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 63th file : ../data/pictures_rovebyronbay/rovebyronbay_056_978Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 67th file : ../data/pictures_rovebyronbay/rovebyronbay_008_413Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 69th file : ../data/pictures_rovebyronbay/rovebyronbay_100_587Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 79th file : ../data/pictures_rovebyronbay/rovebyronbay_054_1516Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 67 results into json!
+
+>>> Successfully saved 67 bbox lists into json!
