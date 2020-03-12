@@ -106,3 +106,5 @@
 >>> Finished setting palette dict!
 
 >>> Successfully saved 58 results into json!
+
+>>> Successfully saved 58 bbox lists into json!
