@@ -1,0 +1,44 @@
+>>> Setting palette dict of 71 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 4th file : ../data/pictures_abeautyfeature/abeautyfeature_014_4778Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 8th file : ../data/pictures_abeautyfeature/abeautyfeature_086_5995Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_abeautyfeature/abeautyfeature_106_2670Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 19th file : ../data/pictures_abeautyfeature/abeautyfeature_096_1922Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 27th file : ../data/pictures_abeautyfeature/abeautyfeature_082_1632Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 30th file : ../data/pictures_abeautyfeature/abeautyfeature_013_1377Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 31th file : ../data/pictures_abeautyfeature/abeautyfeature_141_2374Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 35th file : ../data/pictures_abeautyfeature/abeautyfeature_070_3137Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_abeautyfeature/abeautyfeature_054_2323Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 51th file : ../data/pictures_abeautyfeature/abeautyfeature_042_3441Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_abeautyfeature/abeautyfeature_148_2383Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_abeautyfeature/abeautyfeature_113_5815Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 70 results into json!
+
+>>> Successfully saved 70 bbox lists into json!
