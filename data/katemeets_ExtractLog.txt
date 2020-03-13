@@ -1,70 +1,74 @@
 >>> Setting palette dict of 80 files...
 
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 1th file : ../data/pictures_katemeets/katemeets_105_4603Likes.png
-
 >>> Error : No person is detected from the given picture!
->>> Error in 5th file : ../data/pictures_katemeets/katemeets_046_6203Likes.png
+>>> Error in 1th file : ../data/pictures_katemeets/katemeets_006_4915Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 9th file : ../data/pictures_katemeets/katemeets_042_8616Likes.png
+>>> Error in 4th file : ../data/pictures_katemeets/katemeets_012_4826Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 15th file : ../data/pictures_katemeets/katemeets_043_6051Likes.png
-	
-
->>> Error : No person is detected from the given picture!
->>> Error in 23th file : ../data/pictures_katemeets/katemeets_066_7933Likes.png
-	
-
->>> Error : No person is detected from the given picture!
->>> Error in 24th file : ../data/pictures_katemeets/katemeets_084_4651Likes.png
-	
-
->>> Error : No person is detected from the given picture!
->>> Error in 25th file : ../data/pictures_katemeets/katemeets_118_6204Likes.png
+>>> Error in 11th file : ../data/pictures_katemeets/katemeets_025_4768Likes.png
 	
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 28th file : ../data/pictures_katemeets/katemeets_029_6316Likes.png
+>>> Warning in 13th file : ../data/pictures_katemeets/katemeets_029_6316Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 21th file : ../data/pictures_katemeets/katemeets_041_8002Likes.png
 
 >>> Error : No person is detected from the given picture!
->>> Error in 31th file : ../data/pictures_katemeets/katemeets_006_4915Likes.png
+>>> Error in 22th file : ../data/pictures_katemeets/katemeets_042_8616Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 32th file : ../data/pictures_katemeets/katemeets_140_7662Likes.png
+>>> Error in 23th file : ../data/pictures_katemeets/katemeets_043_6051Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 33th file : ../data/pictures_katemeets/katemeets_120_7280Likes.png
+>>> Error in 24th file : ../data/pictures_katemeets/katemeets_046_6203Likes.png
 	
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 41th file : ../data/pictures_katemeets/katemeets_041_8002Likes.png
+>>> Warning in 25th file : ../data/pictures_katemeets/katemeets_050_6728Likes.png
 
 >>> Error : No person is detected from the given picture!
->>> Error in 42th file : ../data/pictures_katemeets/katemeets_055_5685Likes.png
+>>> Error in 26th file : ../data/pictures_katemeets/katemeets_053_10061Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 43th file : ../data/pictures_katemeets/katemeets_135_5212Likes.png
+>>> Error in 27th file : ../data/pictures_katemeets/katemeets_055_5685Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 29th file : ../data/pictures_katemeets/katemeets_066_7933Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 37th file : ../data/pictures_katemeets/katemeets_084_4651Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 39th file : ../data/pictures_katemeets/katemeets_094_5143Likes.png
 	
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 49th file : ../data/pictures_katemeets/katemeets_111_9568Likes.png
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 53th file : ../data/pictures_katemeets/katemeets_050_6728Likes.png
+>>> Warning in 47th file : ../data/pictures_katemeets/katemeets_105_4603Likes.png
 
 >>> Error : No person is detected from the given picture!
->>> Error in 64th file : ../data/pictures_katemeets/katemeets_094_5143Likes.png
+>>> Error in 51th file : ../data/pictures_katemeets/katemeets_110_6351Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_katemeets/katemeets_111_9568Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 58th file : ../data/pictures_katemeets/katemeets_118_6204Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 65th file : ../data/pictures_katemeets/katemeets_012_4826Likes.png
+>>> Error in 60th file : ../data/pictures_katemeets/katemeets_120_7280Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
@@ -72,15 +76,11 @@
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 69th file : ../data/pictures_katemeets/katemeets_053_10061Likes.png
+>>> Error in 71th file : ../data/pictures_katemeets/katemeets_135_5212Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 71th file : ../data/pictures_katemeets/katemeets_110_6351Likes.png
-	
-
->>> Error : No person is detected from the given picture!
->>> Error in 79th file : ../data/pictures_katemeets/katemeets_025_4768Likes.png
+>>> Error in 75th file : ../data/pictures_katemeets/katemeets_140_7662Likes.png
 	
 
 >>> Finished setting palette dict!
