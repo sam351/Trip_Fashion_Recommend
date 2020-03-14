@@ -1,47 +1,47 @@
 >>> Setting palette dict of 80 files...
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 5th file : ../data/pictures_london_style_blog/london_style_blog_046_3434Likes.png
+>>> Warning in 7th file : ../data/pictures_london_style_blog/london_style_blog_022_1866Likes.png
 
 >>> Error : No person is detected from the given picture!
 >>> Error in 8th file : ../data/pictures_london_style_blog/london_style_blog_023_1904Likes.png
 	
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 9th file : ../data/pictures_london_style_blog/london_style_blog_028_3808Likes.png
+>>> Warning in 11th file : ../data/pictures_london_style_blog/london_style_blog_028_3808Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 12th file : ../data/pictures_london_style_blog/london_style_blog_148_2132Likes.png
+>>> Warning in 22th file : ../data/pictures_london_style_blog/london_style_blog_046_3434Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 27th file : ../data/pictures_london_style_blog/london_style_blog_073_2268Likes.png
+>>> Warning in 24th file : ../data/pictures_london_style_blog/london_style_blog_049_2144Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 35th file : ../data/pictures_london_style_blog/london_style_blog_096_3077Likes.png
+>>> Warning in 32th file : ../data/pictures_london_style_blog/london_style_blog_066_1728Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 49th file : ../data/pictures_london_style_blog/london_style_blog_022_1866Likes.png
+>>> Warning in 35th file : ../data/pictures_london_style_blog/london_style_blog_070_1661Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 51th file : ../data/pictures_london_style_blog/london_style_blog_125_2014Likes.png
+>>> Warning in 36th file : ../data/pictures_london_style_blog/london_style_blog_073_2268Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 52th file : ../data/pictures_london_style_blog/london_style_blog_049_2144Likes.png
+>>> Warning in 48th file : ../data/pictures_london_style_blog/london_style_blog_096_3077Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 55th file : ../data/pictures_london_style_blog/london_style_blog_100_1499Likes.png
+>>> Warning in 51th file : ../data/pictures_london_style_blog/london_style_blog_100_1499Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 56th file : ../data/pictures_london_style_blog/london_style_blog_112_1594Likes.png
+>>> Warning in 58th file : ../data/pictures_london_style_blog/london_style_blog_112_1594Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 62th file : ../data/pictures_london_style_blog/london_style_blog_126_2984Likes.png
+>>> Warning in 65th file : ../data/pictures_london_style_blog/london_style_blog_125_2014Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 75th file : ../data/pictures_london_style_blog/london_style_blog_070_1661Likes.png
+>>> Warning in 66th file : ../data/pictures_london_style_blog/london_style_blog_126_2984Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 76th file : ../data/pictures_london_style_blog/london_style_blog_066_1728Likes.png
+>>> Warning in 78th file : ../data/pictures_london_style_blog/london_style_blog_148_2132Likes.png
 
 >>> Finished setting palette dict!
 
