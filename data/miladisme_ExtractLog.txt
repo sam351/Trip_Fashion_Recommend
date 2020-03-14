@@ -1,31 +1,31 @@
 >>> Setting palette dict of 80 files...
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 3th file : ../data/pictures_miladisme/miladisme_022_941Likes.png
+>>> Warning in 1th file : ../data/pictures_miladisme/miladisme_001_1465Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 20th file : ../data/pictures_miladisme/miladisme_061_834Likes.png
+>>> Warning in 2th file : ../data/pictures_miladisme/miladisme_002_819Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 21th file : ../data/pictures_miladisme/miladisme_040_1320Likes.png
+>>> Warning in 9th file : ../data/pictures_miladisme/miladisme_009_1248Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 23th file : ../data/pictures_miladisme/miladisme_002_819Likes.png
+>>> Warning in 14th file : ../data/pictures_miladisme/miladisme_015_2052Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 28th file : ../data/pictures_miladisme/miladisme_001_1465Likes.png
+>>> Warning in 21th file : ../data/pictures_miladisme/miladisme_022_941Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 55th file : ../data/pictures_miladisme/miladisme_009_1248Likes.png
+>>> Warning in 33th file : ../data/pictures_miladisme/miladisme_034_1293Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 72th file : ../data/pictures_miladisme/miladisme_034_1293Likes.png
+>>> Warning in 38th file : ../data/pictures_miladisme/miladisme_040_1320Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 73th file : ../data/pictures_miladisme/miladisme_122_1119Likes.png
+>>> Warning in 52th file : ../data/pictures_miladisme/miladisme_061_834Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 78th file : ../data/pictures_miladisme/miladisme_015_2052Likes.png
+>>> Warning in 72th file : ../data/pictures_miladisme/miladisme_122_1119Likes.png
 
 >>> Finished setting palette dict!
 
