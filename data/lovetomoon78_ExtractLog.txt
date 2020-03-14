@@ -1,33 +1,33 @@
 >>> Setting palette dict of 80 files...
 
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_lovetomoon78/lovetomoon78_003_3463Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_lovetomoon78/lovetomoon78_015_2450Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 14th file : ../data/pictures_lovetomoon78/lovetomoon78_022_6298Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_lovetomoon78/lovetomoon78_049_5503Likes.png
+
 >>> Error : No person is detected from the given picture!
->>> Error in 1th file : ../data/pictures_lovetomoon78/lovetomoon78_065_2820Likes.png
+>>> Error in 37th file : ../data/pictures_lovetomoon78/lovetomoon78_065_2820Likes.png
 	
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 4th file : ../data/pictures_lovetomoon78/lovetomoon78_015_2450Likes.png
+>>> Warning in 41th file : ../data/pictures_lovetomoon78/lovetomoon78_070_9516Likes.png
 
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 28th file : ../data/pictures_lovetomoon78/lovetomoon78_049_5503Likes.png
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 38th file : ../data/pictures_lovetomoon78/lovetomoon78_022_6298Likes.png
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 39th file : ../data/pictures_lovetomoon78/lovetomoon78_003_3463Likes.png
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 59th file : ../data/pictures_lovetomoon78/lovetomoon78_070_9516Likes.png
+>>> Error : No person is detected from the given picture!
+>>> Error in 63th file : ../data/pictures_lovetomoon78/lovetomoon78_115_2429Likes.png
+	
 
 >>> Warning : More than 1 person is detected from the given picture!
 >>> Warning in 66th file : ../data/pictures_lovetomoon78/lovetomoon78_121_2485Likes.png
 
->>> Error : No person is detected from the given picture!
->>> Error in 70th file : ../data/pictures_lovetomoon78/lovetomoon78_115_2429Likes.png
-	
-
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 77th file : ../data/pictures_lovetomoon78/lovetomoon78_137_7615Likes.png
+>>> Warning in 76th file : ../data/pictures_lovetomoon78/lovetomoon78_137_7615Likes.png
 
 >>> Finished setting palette dict!
 
