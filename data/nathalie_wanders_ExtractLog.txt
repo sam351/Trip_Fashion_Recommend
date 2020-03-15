@@ -1,138 +1,138 @@
 >>> Setting palette dict of 80 files...
 
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 2th file : ../data/pictures_nathalie_wanders/nathalie_wanders_010_9220Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_nathalie_wanders/nathalie_wanders_012_8842Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 4th file : ../data/pictures_nathalie_wanders/nathalie_wanders_014_7776Likes.png
+
 >>> Error : No person is detected from the given picture!
->>> Error in 3th file : ../data/pictures_nathalie_wanders/nathalie_wanders_111_6552Likes.png
+>>> Error in 6th file : ../data/pictures_nathalie_wanders/nathalie_wanders_019_7782Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 4th file : ../data/pictures_nathalie_wanders/nathalie_wanders_044_5812Likes.png
+>>> Error in 10th file : ../data/pictures_nathalie_wanders/nathalie_wanders_026_6147Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 5th file : ../data/pictures_nathalie_wanders/nathalie_wanders_046_8091Likes.png
+>>> Error in 16th file : ../data/pictures_nathalie_wanders/nathalie_wanders_042_16925Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 18th file : ../data/pictures_nathalie_wanders/nathalie_wanders_044_5812Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 19th file : ../data/pictures_nathalie_wanders/nathalie_wanders_046_8091Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 20th file : ../data/pictures_nathalie_wanders/nathalie_wanders_048_6397Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 21th file : ../data/pictures_nathalie_wanders/nathalie_wanders_049_6560Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 22th file : ../data/pictures_nathalie_wanders/nathalie_wanders_050_5909Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 24th file : ../data/pictures_nathalie_wanders/nathalie_wanders_053_6472Likes.png
 	
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 6th file : ../data/pictures_nathalie_wanders/nathalie_wanders_010_9220Likes.png
+>>> Warning in 27th file : ../data/pictures_nathalie_wanders/nathalie_wanders_057_5854Likes.png
 
 >>> Error : No person is detected from the given picture!
->>> Error in 9th file : ../data/pictures_nathalie_wanders/nathalie_wanders_105_10559Likes.png
+>>> Error in 28th file : ../data/pictures_nathalie_wanders/nathalie_wanders_058_7129Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 10th file : ../data/pictures_nathalie_wanders/nathalie_wanders_103_6272Likes.png
+>>> Error in 31th file : ../data/pictures_nathalie_wanders/nathalie_wanders_066_8120Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 11th file : ../data/pictures_nathalie_wanders/nathalie_wanders_118_6295Likes.png
+>>> Error in 33th file : ../data/pictures_nathalie_wanders/nathalie_wanders_068_8908Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 14th file : ../data/pictures_nathalie_wanders/nathalie_wanders_042_16925Likes.png
+>>> Error in 36th file : ../data/pictures_nathalie_wanders/nathalie_wanders_071_20708Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 15th file : ../data/pictures_nathalie_wanders/nathalie_wanders_026_6147Likes.png
+>>> Error in 41th file : ../data/pictures_nathalie_wanders/nathalie_wanders_080_6004Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 17th file : ../data/pictures_nathalie_wanders/nathalie_wanders_098_6436Likes.png
+>>> Error in 43th file : ../data/pictures_nathalie_wanders/nathalie_wanders_086_7950Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 18th file : ../data/pictures_nathalie_wanders/nathalie_wanders_066_8120Likes.png
+>>> Error in 44th file : ../data/pictures_nathalie_wanders/nathalie_wanders_092_18220Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 20th file : ../data/pictures_nathalie_wanders/nathalie_wanders_106_7378Likes.png
+>>> Error in 45th file : ../data/pictures_nathalie_wanders/nathalie_wanders_098_6436Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 21th file : ../data/pictures_nathalie_wanders/nathalie_wanders_145_8146Likes.png
+>>> Error in 47th file : ../data/pictures_nathalie_wanders/nathalie_wanders_103_6272Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 22th file : ../data/pictures_nathalie_wanders/nathalie_wanders_053_6472Likes.png
+>>> Error in 48th file : ../data/pictures_nathalie_wanders/nathalie_wanders_104_8176Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 24th file : ../data/pictures_nathalie_wanders/nathalie_wanders_050_5909Likes.png
+>>> Error in 49th file : ../data/pictures_nathalie_wanders/nathalie_wanders_105_10559Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 25th file : ../data/pictures_nathalie_wanders/nathalie_wanders_109_7428Likes.png
-	
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 28th file : ../data/pictures_nathalie_wanders/nathalie_wanders_012_8842Likes.png
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 30th file : ../data/pictures_nathalie_wanders/nathalie_wanders_149_6742Likes.png
-
->>> Error : No person is detected from the given picture!
->>> Error in 35th file : ../data/pictures_nathalie_wanders/nathalie_wanders_080_6004Likes.png
-	
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 38th file : ../data/pictures_nathalie_wanders/nathalie_wanders_014_7776Likes.png
-
->>> Error : No person is detected from the given picture!
->>> Error in 39th file : ../data/pictures_nathalie_wanders/nathalie_wanders_123_9033Likes.png
-	
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 40th file : ../data/pictures_nathalie_wanders/nathalie_wanders_126_6087Likes.png
-
->>> Error : No person is detected from the given picture!
->>> Error in 43th file : ../data/pictures_nathalie_wanders/nathalie_wanders_058_7129Likes.png
+>>> Error in 50th file : ../data/pictures_nathalie_wanders/nathalie_wanders_106_7378Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 44th file : ../data/pictures_nathalie_wanders/nathalie_wanders_086_7950Likes.png
+>>> Error in 52th file : ../data/pictures_nathalie_wanders/nathalie_wanders_108_8169Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 52th file : ../data/pictures_nathalie_wanders/nathalie_wanders_137_7313Likes.png
+>>> Error in 53th file : ../data/pictures_nathalie_wanders/nathalie_wanders_109_7428Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 53th file : ../data/pictures_nathalie_wanders/nathalie_wanders_048_6397Likes.png
+>>> Error in 55th file : ../data/pictures_nathalie_wanders/nathalie_wanders_111_6552Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 54th file : ../data/pictures_nathalie_wanders/nathalie_wanders_130_6441Likes.png
+>>> Error in 62th file : ../data/pictures_nathalie_wanders/nathalie_wanders_118_6295Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 66th file : ../data/pictures_nathalie_wanders/nathalie_wanders_123_9033Likes.png
 	
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 56th file : ../data/pictures_nathalie_wanders/nathalie_wanders_057_5854Likes.png
+>>> Warning in 68th file : ../data/pictures_nathalie_wanders/nathalie_wanders_126_6087Likes.png
 
 >>> Error : No person is detected from the given picture!
->>> Error in 57th file : ../data/pictures_nathalie_wanders/nathalie_wanders_068_8908Likes.png
+>>> Error in 69th file : ../data/pictures_nathalie_wanders/nathalie_wanders_130_6441Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 58th file : ../data/pictures_nathalie_wanders/nathalie_wanders_071_20708Likes.png
+>>> Error in 74th file : ../data/pictures_nathalie_wanders/nathalie_wanders_137_7313Likes.png
 	
 
 >>> Error : No person is detected from the given picture!
->>> Error in 59th file : ../data/pictures_nathalie_wanders/nathalie_wanders_019_7782Likes.png
+>>> Error in 78th file : ../data/pictures_nathalie_wanders/nathalie_wanders_145_8146Likes.png
 	
 
->>> Error : No person is detected from the given picture!
->>> Error in 69th file : ../data/pictures_nathalie_wanders/nathalie_wanders_108_8169Likes.png
-	
-
->>> Error : No person is detected from the given picture!
->>> Error in 70th file : ../data/pictures_nathalie_wanders/nathalie_wanders_104_8176Likes.png
-	
-
->>> Error : No person is detected from the given picture!
->>> Error in 71th file : ../data/pictures_nathalie_wanders/nathalie_wanders_092_18220Likes.png
-	
-
->>> Error : No person is detected from the given picture!
->>> Error in 73th file : ../data/pictures_nathalie_wanders/nathalie_wanders_049_6560Likes.png
-	
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 80th file : ../data/pictures_nathalie_wanders/nathalie_wanders_149_6742Likes.png
 
 >>> Finished setting palette dict!
 
