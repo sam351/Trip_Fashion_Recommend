@@ -1,80 +1,82 @@
 >>> Setting palette dict of 80 files...
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 1th file : ../data/pictures_thestreetvibe/thestreetvibe_084_9445Likes.png
+>>> Warning in 8th file : ../data/pictures_thestreetvibe/thestreetvibe_021_3901Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 11th file : ../data/pictures_thestreetvibe/thestreetvibe_055_3148Likes.png
+>>> Warning in 12th file : ../data/pictures_thestreetvibe/thestreetvibe_028_4850Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 14th file : ../data/pictures_thestreetvibe/thestreetvibe_028_4850Likes.png
+>>> Warning in 15th file : ../data/pictures_thestreetvibe/thestreetvibe_033_4600Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 22th file : ../data/pictures_thestreetvibe/thestreetvibe_126_5606Likes.png
+>>> Warning in 24th file : ../data/pictures_thestreetvibe/thestreetvibe_049_4416Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 24th file : ../data/pictures_thestreetvibe/thestreetvibe_131_3511Likes.png
-
->>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 25th file : ../data/pictures_thestreetvibe/thestreetvibe_062_14982Likes.png
+>>> Warning in 25th file : ../data/pictures_thestreetvibe/thestreetvibe_051_4944Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
 >>> Warning in 26th file : ../data/pictures_thestreetvibe/thestreetvibe_053_5974Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 27th file : ../data/pictures_thestreetvibe/thestreetvibe_071_8305Likes.png
+>>> Warning in 27th file : ../data/pictures_thestreetvibe/thestreetvibe_054_5373Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 29th file : ../data/pictures_thestreetvibe/thestreetvibe_111_4945Likes.png
+>>> Warning in 28th file : ../data/pictures_thestreetvibe/thestreetvibe_055_3148Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 30th file : ../data/pictures_thestreetvibe/thestreetvibe_021_3901Likes.png
+>>> Warning in 30th file : ../data/pictures_thestreetvibe/thestreetvibe_061_3856Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 35th file : ../data/pictures_thestreetvibe/thestreetvibe_127_6387Likes.png
+>>> Warning in 31th file : ../data/pictures_thestreetvibe/thestreetvibe_062_14982Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 38th file : ../data/pictures_thestreetvibe/thestreetvibe_096_8012Likes.png
+>>> Warning in 34th file : ../data/pictures_thestreetvibe/thestreetvibe_069_5303Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 39th file : ../data/pictures_thestreetvibe/thestreetvibe_113_2907Likes.png
+>>> Warning in 35th file : ../data/pictures_thestreetvibe/thestreetvibe_071_8305Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 42th file : ../data/pictures_thestreetvibe/thestreetvibe_118_9028Likes.png
+>>> Warning in 38th file : ../data/pictures_thestreetvibe/thestreetvibe_079_3517Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 47th file : ../data/pictures_thestreetvibe/thestreetvibe_051_4944Likes.png
+>>> Warning in 41th file : ../data/pictures_thestreetvibe/thestreetvibe_084_9445Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 48th file : ../data/pictures_thestreetvibe/thestreetvibe_079_3517Likes.png
+>>> Warning in 47th file : ../data/pictures_thestreetvibe/thestreetvibe_094_3702Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 55th file : ../data/pictures_thestreetvibe/thestreetvibe_054_5373Likes.png
+>>> Warning in 49th file : ../data/pictures_thestreetvibe/thestreetvibe_096_8012Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 57th file : ../data/pictures_thestreetvibe/thestreetvibe_049_4416Likes.png
+>>> Warning in 55th file : ../data/pictures_thestreetvibe/thestreetvibe_105_2936Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 60th file : ../data/pictures_thestreetvibe/thestreetvibe_061_3856Likes.png
+>>> Warning in 58th file : ../data/pictures_thestreetvibe/thestreetvibe_111_4945Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 61th file : ../data/pictures_thestreetvibe/thestreetvibe_094_3702Likes.png
+>>> Warning in 59th file : ../data/pictures_thestreetvibe/thestreetvibe_113_2907Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 66th file : ../data/pictures_thestreetvibe/thestreetvibe_115_2860Likes.png
+>>> Warning in 60th file : ../data/pictures_thestreetvibe/thestreetvibe_115_2860Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 71th file : ../data/pictures_thestreetvibe/thestreetvibe_105_2936Likes.png
+>>> Warning in 63th file : ../data/pictures_thestreetvibe/thestreetvibe_118_9028Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 74th file : ../data/pictures_thestreetvibe/thestreetvibe_133_7129Likes.png
+>>> Warning in 65th file : ../data/pictures_thestreetvibe/thestreetvibe_126_5606Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 75th file : ../data/pictures_thestreetvibe/thestreetvibe_033_4600Likes.png
+>>> Warning in 66th file : ../data/pictures_thestreetvibe/thestreetvibe_127_6387Likes.png
 
 >>> Warning : More than 1 person is detected from the given picture!
->>> Warning in 76th file : ../data/pictures_thestreetvibe/thestreetvibe_069_5303Likes.png
+>>> Warning in 69th file : ../data/pictures_thestreetvibe/thestreetvibe_131_3511Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_thestreetvibe/thestreetvibe_133_7129Likes.png
 
 >>> Finished setting palette dict!
 
 >>> Successfully saved 80 results into json!
+
+>>> Successfully saved 80 bbox lists into json!
