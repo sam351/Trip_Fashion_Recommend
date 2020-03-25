@@ -1,0 +1,7 @@
+Keras==2.2.4
+numpy==1.18.1
+jupyter
+Pillow
+matplotlib
+jupyter
+ipython
