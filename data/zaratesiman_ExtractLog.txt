@@ -1,0 +1,82 @@
+>>> Setting palette dict of 58 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 2th file : ../data/pictures_zaratesiman/zaratesiman_006_2681Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_zaratesiman/zaratesiman_013_3756Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_zaratesiman/zaratesiman_017_3890Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_zaratesiman/zaratesiman_019_2006Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_zaratesiman/zaratesiman_025_2649Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_zaratesiman/zaratesiman_028_1663Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_zaratesiman/zaratesiman_030_3475Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_zaratesiman/zaratesiman_044_2550Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 16th file : ../data/pictures_zaratesiman/zaratesiman_045_2517Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 17th file : ../data/pictures_zaratesiman/zaratesiman_049_2225Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_zaratesiman/zaratesiman_065_3903Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_zaratesiman/zaratesiman_070_1985Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_zaratesiman/zaratesiman_074_3140Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_zaratesiman/zaratesiman_077_3235Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 35th file : ../data/pictures_zaratesiman/zaratesiman_088_2794Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_zaratesiman/zaratesiman_090_2215Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_zaratesiman/zaratesiman_092_2740Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 40th file : ../data/pictures_zaratesiman/zaratesiman_097_4604Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_zaratesiman/zaratesiman_103_1886Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 44th file : ../data/pictures_zaratesiman/zaratesiman_104_4785Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_zaratesiman/zaratesiman_106_2864Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_zaratesiman/zaratesiman_111_2450Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_zaratesiman/zaratesiman_135_4155Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_zaratesiman/zaratesiman_140_3264Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 57th file : ../data/pictures_zaratesiman/zaratesiman_143_4316Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 58 results into json!
+
+>>> Successfully saved 58 bbox lists into json!
