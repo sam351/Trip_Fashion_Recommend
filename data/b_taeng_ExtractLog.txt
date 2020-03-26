@@ -1,0 +1,26 @@
+>>> Setting palette dict of 60 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 2th file : ../data/pictures_b_taeng/b_taeng_005_3742Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_b_taeng/b_taeng_028_2334Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 21th file : ../data/pictures_b_taeng/b_taeng_055_3894Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 35th file : ../data/pictures_b_taeng/b_taeng_083_10699Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 48th file : ../data/pictures_b_taeng/b_taeng_109_4356Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 56 results into json!
+
+>>> Successfully saved 56 bbox lists into json!
