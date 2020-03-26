@@ -1,0 +1,15 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 78th file : ../data/pictures_kerriemburke/kerriemburke_102_737Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 80th file : ../data/pictures_kerriemburke/kerriemburke_116_756Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 78 results into json!
+
+>>> Successfully saved 78 bbox lists into json!

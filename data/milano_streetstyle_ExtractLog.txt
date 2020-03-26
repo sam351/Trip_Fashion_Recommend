@@ -1,0 +1,51 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 4th file : ../data/pictures_milano_streetstyle/milano_streetstyle_009_4847Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 15th file : ../data/pictures_milano_streetstyle/milano_streetstyle_029_5510Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_milano_streetstyle/milano_streetstyle_065_13407Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 33th file : ../data/pictures_milano_streetstyle/milano_streetstyle_073_4902Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_milano_streetstyle/milano_streetstyle_079_8930Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_milano_streetstyle/milano_streetstyle_092_7754Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 47th file : ../data/pictures_milano_streetstyle/milano_streetstyle_094_4203Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 55th file : ../data/pictures_milano_streetstyle/milano_streetstyle_109_4432Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 56th file : ../data/pictures_milano_streetstyle/milano_streetstyle_110_10234Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 63th file : ../data/pictures_milano_streetstyle/milano_streetstyle_123_4755Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 70th file : ../data/pictures_milano_streetstyle/milano_streetstyle_135_5897Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_milano_streetstyle/milano_streetstyle_136_4280Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_milano_streetstyle/milano_streetstyle_141_3324Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 75 results into json!
+
+>>> Successfully saved 75 bbox lists into json!

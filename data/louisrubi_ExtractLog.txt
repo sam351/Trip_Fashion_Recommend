@@ -1,0 +1,25 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_louisrubi/louisrubi_005_4598Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_louisrubi/louisrubi_010_3248Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_louisrubi/louisrubi_012_6683Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_louisrubi/louisrubi_026_5335Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_louisrubi/louisrubi_047_6477Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 57th file : ../data/pictures_louisrubi/louisrubi_099_4159Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 80 results into json!
+
+>>> Successfully saved 80 bbox lists into json!

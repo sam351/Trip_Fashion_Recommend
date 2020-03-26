@@ -1,0 +1,83 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_marinelabezer/marinelabezer_001_7750Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_marinelabezer/marinelabezer_003_5081Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_marinelabezer/marinelabezer_010_5718Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 8th file : ../data/pictures_marinelabezer/marinelabezer_016_6078Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 12th file : ../data/pictures_marinelabezer/marinelabezer_026_6998Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 26th file : ../data/pictures_marinelabezer/marinelabezer_052_6755Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 27th file : ../data/pictures_marinelabezer/marinelabezer_053_6589Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 29th file : ../data/pictures_marinelabezer/marinelabezer_055_6981Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 30th file : ../data/pictures_marinelabezer/marinelabezer_058_7075Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 31th file : ../data/pictures_marinelabezer/marinelabezer_059_8217Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 35th file : ../data/pictures_marinelabezer/marinelabezer_073_5949Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_marinelabezer/marinelabezer_076_5307Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_marinelabezer/marinelabezer_077_6834Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 39th file : ../data/pictures_marinelabezer/marinelabezer_079_5384Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 41th file : ../data/pictures_marinelabezer/marinelabezer_081_5016Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_marinelabezer/marinelabezer_091_7694Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 54th file : ../data/pictures_marinelabezer/marinelabezer_098_5588Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_marinelabezer/marinelabezer_099_5973Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 57th file : ../data/pictures_marinelabezer/marinelabezer_103_6463Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 59th file : ../data/pictures_marinelabezer/marinelabezer_106_7053Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_marinelabezer/marinelabezer_115_5448Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_marinelabezer/marinelabezer_117_6082Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 68th file : ../data/pictures_marinelabezer/marinelabezer_122_5468Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_marinelabezer/marinelabezer_126_7086Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 76 results into json!
+
+>>> Successfully saved 76 bbox lists into json!

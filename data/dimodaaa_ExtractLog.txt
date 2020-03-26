@@ -1,0 +1,101 @@
+>>> Setting palette dict of 72 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 2th file : ../data/pictures_dimodaaa/dimodaaa_119_1389Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_dimodaaa/dimodaaa_098_3540Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_dimodaaa/dimodaaa_005_1324Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_dimodaaa/dimodaaa_103_5249Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_dimodaaa/dimodaaa_126_927Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_dimodaaa/dimodaaa_115_1038Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_dimodaaa/dimodaaa_117_878Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 20th file : ../data/pictures_dimodaaa/dimodaaa_072_1470Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_dimodaaa/dimodaaa_053_1225Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_dimodaaa/dimodaaa_134_1270Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_dimodaaa/dimodaaa_076_4088Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 30th file : ../data/pictures_dimodaaa/dimodaaa_108_6135Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 31th file : ../data/pictures_dimodaaa/dimodaaa_129_2130Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 35th file : ../data/pictures_dimodaaa/dimodaaa_132_1385Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_dimodaaa/dimodaaa_079_3563Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_dimodaaa/dimodaaa_028_1383Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 41th file : ../data/pictures_dimodaaa/dimodaaa_045_1582Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 42th file : ../data/pictures_dimodaaa/dimodaaa_067_1934Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_dimodaaa/dimodaaa_123_2152Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 48th file : ../data/pictures_dimodaaa/dimodaaa_021_2942Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_dimodaaa/dimodaaa_139_755Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_dimodaaa/dimodaaa_085_3607Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_dimodaaa/dimodaaa_145_1581Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 59th file : ../data/pictures_dimodaaa/dimodaaa_088_1796Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 60th file : ../data/pictures_dimodaaa/dimodaaa_065_5590Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_dimodaaa/dimodaaa_090_3273Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_dimodaaa/dimodaaa_101_2138Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 69th file : ../data/pictures_dimodaaa/dimodaaa_109_712Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 70th file : ../data/pictures_dimodaaa/dimodaaa_034_2912Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_dimodaaa/dimodaaa_057_2722Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 72th file : ../data/pictures_dimodaaa/dimodaaa_084_1550Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 71 results into json!
+
+>>> Successfully saved 71 bbox lists into json!

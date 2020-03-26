@@ -1,0 +1,84 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_lindsayvoitton/lindsayvoitton_008_2277Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_lindsayvoitton/lindsayvoitton_011_1502Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 11th file : ../data/pictures_lindsayvoitton/lindsayvoitton_022_1660Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_lindsayvoitton/lindsayvoitton_026_1299Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 17th file : ../data/pictures_lindsayvoitton/lindsayvoitton_035_1382Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 19th file : ../data/pictures_lindsayvoitton/lindsayvoitton_037_2616Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 26th file : ../data/pictures_lindsayvoitton/lindsayvoitton_048_2105Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 29th file : ../data/pictures_lindsayvoitton/lindsayvoitton_052_1557Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 37th file : ../data/pictures_lindsayvoitton/lindsayvoitton_065_1115Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 43th file : ../data/pictures_lindsayvoitton/lindsayvoitton_082_2572Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 46th file : ../data/pictures_lindsayvoitton/lindsayvoitton_086_2733Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 48th file : ../data/pictures_lindsayvoitton/lindsayvoitton_088_2720Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_lindsayvoitton/lindsayvoitton_092_1652Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_lindsayvoitton/lindsayvoitton_093_1262Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 54th file : ../data/pictures_lindsayvoitton/lindsayvoitton_095_2295Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 58th file : ../data/pictures_lindsayvoitton/lindsayvoitton_103_1805Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 59th file : ../data/pictures_lindsayvoitton/lindsayvoitton_105_1302Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 63th file : ../data/pictures_lindsayvoitton/lindsayvoitton_111_1048Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 64th file : ../data/pictures_lindsayvoitton/lindsayvoitton_115_2467Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 78th file : ../data/pictures_lindsayvoitton/lindsayvoitton_145_1537Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 80th file : ../data/pictures_lindsayvoitton/lindsayvoitton_148_1450Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 66 results into json!
+
+>>> Successfully saved 66 bbox lists into json!

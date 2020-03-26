@@ -81,4 +81,11 @@
 >>> Warning : More than 1 person is detected from the given picture!
 >>> Warning in 79th file : ../data/pictures_cocobeautea/cocobeautea_120_28525Likes.png
 
->>> Successfully saved 78 results into json!
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 80th file : ../data/pictures_cocobeautea/cocobeautea_111_35856Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 80 results into json!
+
+>>> Successfully saved 80 bbox lists into json!

@@ -1,0 +1,69 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 4th file : ../data/pictures_kaylaspalettes/kaylaspalettes_011_306Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_kaylaspalettes/kaylaspalettes_013_186Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_kaylaspalettes/kaylaspalettes_015_231Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_kaylaspalettes/kaylaspalettes_019_314Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 24th file : ../data/pictures_kaylaspalettes/kaylaspalettes_049_225Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 26th file : ../data/pictures_kaylaspalettes/kaylaspalettes_053_212Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_kaylaspalettes/kaylaspalettes_059_204Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 32th file : ../data/pictures_kaylaspalettes/kaylaspalettes_065_187Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_kaylaspalettes/kaylaspalettes_072_214Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 39th file : ../data/pictures_kaylaspalettes/kaylaspalettes_076_230Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_kaylaspalettes/kaylaspalettes_086_202Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_kaylaspalettes/kaylaspalettes_095_182Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 54th file : ../data/pictures_kaylaspalettes/kaylaspalettes_098_225Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 55th file : ../data/pictures_kaylaspalettes/kaylaspalettes_099_231Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 66th file : ../data/pictures_kaylaspalettes/kaylaspalettes_112_323Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 67th file : ../data/pictures_kaylaspalettes/kaylaspalettes_113_353Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 72th file : ../data/pictures_kaylaspalettes/kaylaspalettes_120_368Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 75th file : ../data/pictures_kaylaspalettes/kaylaspalettes_123_565Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 78th file : ../data/pictures_kaylaspalettes/kaylaspalettes_126_476Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 80th file : ../data/pictures_kaylaspalettes/kaylaspalettes_130_460Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 78 results into json!
+
+>>> Successfully saved 78 bbox lists into json!
