@@ -1,0 +1,33 @@
+>>> Setting palette dict of 65 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 1th file : ../data/pictures_blogging4style/blogging4style_001_1693Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_blogging4style/blogging4style_007_1021Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 18th file : ../data/pictures_blogging4style/blogging4style_043_1829Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 21th file : ../data/pictures_blogging4style/blogging4style_047_2983Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 41th file : ../data/pictures_blogging4style/blogging4style_088_1041Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_blogging4style/blogging4style_106_846Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 60th file : ../data/pictures_blogging4style/blogging4style_121_991Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 61th file : ../data/pictures_blogging4style/blogging4style_122_1285Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 63 results into json!
+
+>>> Successfully saved 63 bbox lists into json!
