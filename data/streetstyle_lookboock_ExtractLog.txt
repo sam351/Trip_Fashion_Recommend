@@ -1,0 +1,16 @@
+>>> Setting palette dict of 56 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 14th file : ../data/pictures_streetstyle_lookboock/streetstyle_lookboock_040_5335Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_streetstyle_lookboock/streetstyle_lookboock_075_1382Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_streetstyle_lookboock/streetstyle_lookboock_147_2505Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 56 results into json!
+
+>>> Successfully saved 56 bbox lists into json!
