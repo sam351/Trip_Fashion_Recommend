@@ -1,0 +1,80 @@
+>>> Setting palette dict of 73 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_tyseemarie/tyseemarie_010_1598Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 13th file : ../data/pictures_tyseemarie/tyseemarie_114_1565Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 15th file : ../data/pictures_tyseemarie/tyseemarie_141_1052Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 20th file : ../data/pictures_tyseemarie/tyseemarie_038_949Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 28th file : ../data/pictures_tyseemarie/tyseemarie_073_1186Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 32th file : ../data/pictures_tyseemarie/tyseemarie_033_1398Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_tyseemarie/tyseemarie_072_1086Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_tyseemarie/tyseemarie_090_1017Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 39th file : ../data/pictures_tyseemarie/tyseemarie_011_1487Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 49th file : ../data/pictures_tyseemarie/tyseemarie_034_1778Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_tyseemarie/tyseemarie_133_1317Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 51th file : ../data/pictures_tyseemarie/tyseemarie_028_1313Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 52th file : ../data/pictures_tyseemarie/tyseemarie_150_1263Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_tyseemarie/tyseemarie_074_1472Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_tyseemarie/tyseemarie_099_1094Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_tyseemarie/tyseemarie_013_1256Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 59th file : ../data/pictures_tyseemarie/tyseemarie_018_1587Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 60th file : ../data/pictures_tyseemarie/tyseemarie_032_1403Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 61th file : ../data/pictures_tyseemarie/tyseemarie_014_1791Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 63th file : ../data/pictures_tyseemarie/tyseemarie_144_1741Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 65th file : ../data/pictures_tyseemarie/tyseemarie_071_1592Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_tyseemarie/tyseemarie_012_1587Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 73th file : ../data/pictures_tyseemarie/tyseemarie_017_1232Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 69 results into json!
+
+>>> Successfully saved 69 bbox lists into json!

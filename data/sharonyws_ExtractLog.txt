@@ -1,0 +1,127 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 3th file : ../data/pictures_sharonyws/sharonyws_100_11792Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 4th file : ../data/pictures_sharonyws/sharonyws_141_4188Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 5th file : ../data/pictures_sharonyws/sharonyws_083_3784Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_sharonyws/sharonyws_081_5940Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 8th file : ../data/pictures_sharonyws/sharonyws_023_3929Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_sharonyws/sharonyws_097_9484Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 12th file : ../data/pictures_sharonyws/sharonyws_120_6663Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 15th file : ../data/pictures_sharonyws/sharonyws_148_3567Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 16th file : ../data/pictures_sharonyws/sharonyws_055_3473Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 21th file : ../data/pictures_sharonyws/sharonyws_057_3748Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 25th file : ../data/pictures_sharonyws/sharonyws_085_3797Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 27th file : ../data/pictures_sharonyws/sharonyws_029_5190Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 32th file : ../data/pictures_sharonyws/sharonyws_038_9315Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 37th file : ../data/pictures_sharonyws/sharonyws_135_5820Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 42th file : ../data/pictures_sharonyws/sharonyws_142_3911Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_sharonyws/sharonyws_079_4053Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_sharonyws/sharonyws_073_6295Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 48th file : ../data/pictures_sharonyws/sharonyws_104_4260Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 49th file : ../data/pictures_sharonyws/sharonyws_074_4644Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 50th file : ../data/pictures_sharonyws/sharonyws_008_8571Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_sharonyws/sharonyws_004_5156Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 54th file : ../data/pictures_sharonyws/sharonyws_003_4947Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 55th file : ../data/pictures_sharonyws/sharonyws_133_5580Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 56th file : ../data/pictures_sharonyws/sharonyws_119_8914Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_sharonyws/sharonyws_020_5965Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 61th file : ../data/pictures_sharonyws/sharonyws_051_6266Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 62th file : ../data/pictures_sharonyws/sharonyws_146_6384Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 68th file : ../data/pictures_sharonyws/sharonyws_098_5513Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 70th file : ../data/pictures_sharonyws/sharonyws_024_4455Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 72th file : ../data/pictures_sharonyws/sharonyws_062_6714Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 74th file : ../data/pictures_sharonyws/sharonyws_125_6846Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 79th file : ../data/pictures_sharonyws/sharonyws_150_3908Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 56 results into json!
+
+>>> Successfully saved 56 bbox lists into json!

@@ -1,0 +1,70 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_016_1127Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 5th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_147_722Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 6th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_101_2729Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 8th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_104_409Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 14th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_057_429Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_002_368Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 19th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_071_2274Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 21th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_073_1248Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_092_978Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_029_998Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 39th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_051_877Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 40th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_141_1282Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 45th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_032_697Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_113_510Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_009_387Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 58th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_148_628Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 60th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_129_800Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 64th file : ../data/pictures_streetstyle_belgrade/streetstyle_belgrade_074_1437Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 71 results into json!
+
+>>> Successfully saved 71 bbox lists into json!

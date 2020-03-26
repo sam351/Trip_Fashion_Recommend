@@ -1,0 +1,65 @@
+>>> Setting palette dict of 78 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_tissemrz/tissemrz_051_1952Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_tissemrz/tissemrz_075_8286Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 14th file : ../data/pictures_tissemrz/tissemrz_064_4241Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_tissemrz/tissemrz_062_4122Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_tissemrz/tissemrz_067_3163Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 27th file : ../data/pictures_tissemrz/tissemrz_096_3023Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 31th file : ../data/pictures_tissemrz/tissemrz_139_6049Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_tissemrz/tissemrz_074_4494Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_tissemrz/tissemrz_084_11096Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_tissemrz/tissemrz_127_2180Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 42th file : ../data/pictures_tissemrz/tissemrz_087_9951Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 59th file : ../data/pictures_tissemrz/tissemrz_080_2613Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 62th file : ../data/pictures_tissemrz/tissemrz_015_3610Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 63th file : ../data/pictures_tissemrz/tissemrz_107_3623Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_tissemrz/tissemrz_078_4760Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 68th file : ../data/pictures_tissemrz/tissemrz_052_2312Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 76th file : ../data/pictures_tissemrz/tissemrz_071_4580Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 77th file : ../data/pictures_tissemrz/tissemrz_034_2170Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 78th file : ../data/pictures_tissemrz/tissemrz_114_6322Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 77 results into json!
+
+>>> Successfully saved 77 bbox lists into json!

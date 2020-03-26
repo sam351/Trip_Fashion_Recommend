@@ -1,0 +1,44 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 5th file : ../data/pictures_schokoladenjahre/schokoladenjahre_114_2681Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_schokoladenjahre/schokoladenjahre_045_2584Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_schokoladenjahre/schokoladenjahre_036_3291Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 14th file : ../data/pictures_schokoladenjahre/schokoladenjahre_140_3998Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_schokoladenjahre/schokoladenjahre_102_3119Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_schokoladenjahre/schokoladenjahre_121_3556Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 57th file : ../data/pictures_schokoladenjahre/schokoladenjahre_027_3343Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 59th file : ../data/pictures_schokoladenjahre/schokoladenjahre_137_3453Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 63th file : ../data/pictures_schokoladenjahre/schokoladenjahre_110_4895Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 69th file : ../data/pictures_schokoladenjahre/schokoladenjahre_082_4125Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 75th file : ../data/pictures_schokoladenjahre/schokoladenjahre_011_4483Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 76 results into json!
+
+>>> Successfully saved 76 bbox lists into json!

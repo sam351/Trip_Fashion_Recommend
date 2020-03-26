@@ -1,0 +1,66 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 2th file : ../data/pictures_streetstyle_london/streetstyle_london_089_1656Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 3th file : ../data/pictures_streetstyle_london/streetstyle_london_099_1546Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_streetstyle_london/streetstyle_london_072_1534Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 24th file : ../data/pictures_streetstyle_london/streetstyle_london_059_2229Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_streetstyle_london/streetstyle_london_090_1232Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 39th file : ../data/pictures_streetstyle_london/streetstyle_london_112_1264Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 40th file : ../data/pictures_streetstyle_london/streetstyle_london_121_1179Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 42th file : ../data/pictures_streetstyle_london/streetstyle_london_057_1635Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 45th file : ../data/pictures_streetstyle_london/streetstyle_london_091_1519Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 58th file : ../data/pictures_streetstyle_london/streetstyle_london_110_1481Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 59th file : ../data/pictures_streetstyle_london/streetstyle_london_026_1177Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 63th file : ../data/pictures_streetstyle_london/streetstyle_london_118_1725Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_streetstyle_london/streetstyle_london_105_1635Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 68th file : ../data/pictures_streetstyle_london/streetstyle_london_034_1204Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 69th file : ../data/pictures_streetstyle_london/streetstyle_london_080_5435Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 76th file : ../data/pictures_streetstyle_london/streetstyle_london_065_1261Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 79th file : ../data/pictures_streetstyle_london/streetstyle_london_103_3455Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 72 results into json!
+
+>>> Successfully saved 72 bbox lists into json!

@@ -1,0 +1,67 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_stylesightworldwide/stylesightworldwide_135_1386Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 8th file : ../data/pictures_stylesightworldwide/stylesightworldwide_103_2715Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 10th file : ../data/pictures_stylesightworldwide/stylesightworldwide_056_1514Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 19th file : ../data/pictures_stylesightworldwide/stylesightworldwide_016_3292Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_stylesightworldwide/stylesightworldwide_019_9400Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 26th file : ../data/pictures_stylesightworldwide/stylesightworldwide_141_3628Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 27th file : ../data/pictures_stylesightworldwide/stylesightworldwide_124_1456Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_stylesightworldwide/stylesightworldwide_020_3420Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_stylesightworldwide/stylesightworldwide_023_3045Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_stylesightworldwide/stylesightworldwide_004_2745Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_stylesightworldwide/stylesightworldwide_101_4134Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_stylesightworldwide/stylesightworldwide_071_1387Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_stylesightworldwide/stylesightworldwide_104_8207Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_stylesightworldwide/stylesightworldwide_064_1426Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 65th file : ../data/pictures_stylesightworldwide/stylesightworldwide_118_976Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 66th file : ../data/pictures_stylesightworldwide/stylesightworldwide_149_3607Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 70th file : ../data/pictures_stylesightworldwide/stylesightworldwide_099_5150Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_stylesightworldwide/stylesightworldwide_012_2390Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 75th file : ../data/pictures_stylesightworldwide/stylesightworldwide_138_1341Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 79th file : ../data/pictures_stylesightworldwide/stylesightworldwide_139_2878Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 80 results into json!
+
+>>> Successfully saved 80 bbox lists into json!

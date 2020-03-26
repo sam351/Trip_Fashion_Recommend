@@ -1,0 +1,32 @@
+>>> Setting palette dict of 78 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 18th file : ../data/pictures_thecatwilliams/thecatwilliams_017_417Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 19th file : ../data/pictures_thecatwilliams/thecatwilliams_067_759Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_thecatwilliams/thecatwilliams_147_556Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 35th file : ../data/pictures_thecatwilliams/thecatwilliams_084_657Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_thecatwilliams/thecatwilliams_036_400Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_thecatwilliams/thecatwilliams_054_577Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 62th file : ../data/pictures_thecatwilliams/thecatwilliams_149_851Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_thecatwilliams/thecatwilliams_098_812Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 77 results into json!
+
+>>> Successfully saved 77 bbox lists into json!

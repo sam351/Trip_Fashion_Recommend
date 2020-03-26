@@ -1,0 +1,68 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_tsangtastic/tsangtastic_095_5883Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 13th file : ../data/pictures_tsangtastic/tsangtastic_008_12015Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 17th file : ../data/pictures_tsangtastic/tsangtastic_148_13367Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 18th file : ../data/pictures_tsangtastic/tsangtastic_033_6502Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 21th file : ../data/pictures_tsangtastic/tsangtastic_062_8964Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 26th file : ../data/pictures_tsangtastic/tsangtastic_100_6096Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_tsangtastic/tsangtastic_017_6322Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_tsangtastic/tsangtastic_056_6051Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 41th file : ../data/pictures_tsangtastic/tsangtastic_109_7514Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 43th file : ../data/pictures_tsangtastic/tsangtastic_088_5739Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 48th file : ../data/pictures_tsangtastic/tsangtastic_054_11067Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 51th file : ../data/pictures_tsangtastic/tsangtastic_010_5801Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_tsangtastic/tsangtastic_051_6282Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 53th file : ../data/pictures_tsangtastic/tsangtastic_014_6730Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 63th file : ../data/pictures_tsangtastic/tsangtastic_030_4828Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 69th file : ../data/pictures_tsangtastic/tsangtastic_079_7111Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 70th file : ../data/pictures_tsangtastic/tsangtastic_011_11362Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 72th file : ../data/pictures_tsangtastic/tsangtastic_021_6548Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 76th file : ../data/pictures_tsangtastic/tsangtastic_150_11068Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 78th file : ../data/pictures_tsangtastic/tsangtastic_070_5496Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
+
+>>> Successfully saved 79 bbox lists into json!

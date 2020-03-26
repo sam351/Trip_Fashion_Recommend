@@ -1,0 +1,43 @@
+>>> Setting palette dict of 80 files...
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 8th file : ../data/pictures_yunnature/yunnature_038_1984Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 18th file : ../data/pictures_yunnature/yunnature_131_2204Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 19th file : ../data/pictures_yunnature/yunnature_129_3676Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 44th file : ../data/pictures_yunnature/yunnature_120_1854Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_yunnature/yunnature_123_1596Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 53th file : ../data/pictures_yunnature/yunnature_083_5631Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 57th file : ../data/pictures_yunnature/yunnature_119_1316Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_yunnature/yunnature_145_2532Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_yunnature/yunnature_141_1403Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 77th file : ../data/pictures_yunnature/yunnature_064_1321Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 74 results into json!
+
+>>> Successfully saved 74 bbox lists into json!

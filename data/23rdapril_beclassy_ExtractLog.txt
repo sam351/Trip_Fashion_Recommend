@@ -1,0 +1,67 @@
+>>> Setting palette dict of 79 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 4th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_055_2611Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 6th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_039_3456Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 9th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_074_1037Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_023_5586Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_108_1897Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 20th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_063_2120Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_087_1419Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_038_7294Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_146_3625Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_027_5568Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_141_3906Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 47th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_037_6751Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_112_1702Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 51th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_145_3035Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 54th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_058_1172Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 62th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_100_1524Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 63th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_028_1584Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 64th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_061_1357Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 76th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_104_1441Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 79th file : ../data/pictures_23rdapril_beclassy/23rdapril_beclassy_119_2439Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
+
+>>> Successfully saved 79 bbox lists into json!

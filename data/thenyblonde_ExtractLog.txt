@@ -1,0 +1,55 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_thenyblonde/thenyblonde_001_1021Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_thenyblonde/thenyblonde_019_987Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 18th file : ../data/pictures_thenyblonde/thenyblonde_031_1062Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 20th file : ../data/pictures_thenyblonde/thenyblonde_035_959Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_thenyblonde/thenyblonde_047_1186Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 29th file : ../data/pictures_thenyblonde/thenyblonde_056_1102Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 32th file : ../data/pictures_thenyblonde/thenyblonde_061_1207Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 36th file : ../data/pictures_thenyblonde/thenyblonde_076_1157Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 39th file : ../data/pictures_thenyblonde/thenyblonde_083_1277Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 51th file : ../data/pictures_thenyblonde/thenyblonde_104_1001Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 54th file : ../data/pictures_thenyblonde/thenyblonde_109_1160Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 60th file : ../data/pictures_thenyblonde/thenyblonde_117_1189Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 65th file : ../data/pictures_thenyblonde/thenyblonde_127_1007Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 69th file : ../data/pictures_thenyblonde/thenyblonde_136_1115Likes.png
+	
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 74 results into json!
+
+>>> Successfully saved 74 bbox lists into json!

@@ -1,0 +1,43 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_statuslusso/statuslusso_124_2720Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 7th file : ../data/pictures_statuslusso/statuslusso_106_7236Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_statuslusso/statuslusso_020_3419Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 20th file : ../data/pictures_statuslusso/statuslusso_134_3549Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_statuslusso/statuslusso_050_2455Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_statuslusso/statuslusso_017_2353Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 40th file : ../data/pictures_statuslusso/statuslusso_074_2807Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 41th file : ../data/pictures_statuslusso/statuslusso_062_2521Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_statuslusso/statuslusso_007_4250Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_statuslusso/statuslusso_058_5917Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 68th file : ../data/pictures_statuslusso/statuslusso_060_2805Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 78th file : ../data/pictures_statuslusso/statuslusso_067_2907Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 80 results into json!
+
+>>> Successfully saved 80 bbox lists into json!

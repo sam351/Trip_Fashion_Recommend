@@ -1,0 +1,62 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 1th file : ../data/pictures_terryesbec/terryesbec_060_4854Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 8th file : ../data/pictures_terryesbec/terryesbec_004_6089Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_terryesbec/terryesbec_108_2234Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 17th file : ../data/pictures_terryesbec/terryesbec_103_8716Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_terryesbec/terryesbec_020_4664Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 24th file : ../data/pictures_terryesbec/terryesbec_094_3385Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_terryesbec/terryesbec_117_3130Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 39th file : ../data/pictures_terryesbec/terryesbec_010_4873Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 49th file : ../data/pictures_terryesbec/terryesbec_039_3058Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_terryesbec/terryesbec_061_13751Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 51th file : ../data/pictures_terryesbec/terryesbec_006_4256Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_terryesbec/terryesbec_095_3063Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 61th file : ../data/pictures_terryesbec/terryesbec_065_8616Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 67th file : ../data/pictures_terryesbec/terryesbec_085_4454Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_terryesbec/terryesbec_110_3922Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_terryesbec/terryesbec_079_2346Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 76th file : ../data/pictures_terryesbec/terryesbec_012_2038Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 77th file : ../data/pictures_terryesbec/terryesbec_083_2340Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 79 results into json!
+
+>>> Successfully saved 79 bbox lists into json!

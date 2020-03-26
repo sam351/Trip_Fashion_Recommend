@@ -1,0 +1,102 @@
+>>> Setting palette dict of 80 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 3th file : ../data/pictures_sueliestilista/sueliestilista_057_3743Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 4th file : ../data/pictures_sueliestilista/sueliestilista_012_723Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 8th file : ../data/pictures_sueliestilista/sueliestilista_040_641Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 11th file : ../data/pictures_sueliestilista/sueliestilista_138_1095Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 12th file : ../data/pictures_sueliestilista/sueliestilista_112_549Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_sueliestilista/sueliestilista_066_1167Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 16th file : ../data/pictures_sueliestilista/sueliestilista_076_1716Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 18th file : ../data/pictures_sueliestilista/sueliestilista_033_758Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 22th file : ../data/pictures_sueliestilista/sueliestilista_002_663Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 23th file : ../data/pictures_sueliestilista/sueliestilista_081_935Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_sueliestilista/sueliestilista_083_746Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 29th file : ../data/pictures_sueliestilista/sueliestilista_102_1565Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 30th file : ../data/pictures_sueliestilista/sueliestilista_039_1097Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 32th file : ../data/pictures_sueliestilista/sueliestilista_028_612Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_sueliestilista/sueliestilista_010_622Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 38th file : ../data/pictures_sueliestilista/sueliestilista_141_877Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 39th file : ../data/pictures_sueliestilista/sueliestilista_058_585Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 40th file : ../data/pictures_sueliestilista/sueliestilista_018_880Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 45th file : ../data/pictures_sueliestilista/sueliestilista_037_1966Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 46th file : ../data/pictures_sueliestilista/sueliestilista_015_1199Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 51th file : ../data/pictures_sueliestilista/sueliestilista_147_539Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 55th file : ../data/pictures_sueliestilista/sueliestilista_135_549Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_sueliestilista/sueliestilista_064_782Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 62th file : ../data/pictures_sueliestilista/sueliestilista_122_2130Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 71th file : ../data/pictures_sueliestilista/sueliestilista_077_538Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 73th file : ../data/pictures_sueliestilista/sueliestilista_005_3387Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 74th file : ../data/pictures_sueliestilista/sueliestilista_034_726Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 75th file : ../data/pictures_sueliestilista/sueliestilista_060_557Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 76th file : ../data/pictures_sueliestilista/sueliestilista_096_696Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 77th file : ../data/pictures_sueliestilista/sueliestilista_108_647Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 78th file : ../data/pictures_sueliestilista/sueliestilista_001_1003Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 78 results into json!
+
+>>> Successfully saved 78 bbox lists into json!
