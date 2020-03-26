@@ -1,0 +1,54 @@
+>>> Setting palette dict of 58 files...
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 5th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_014_3078Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 15th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_035_1207Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 16th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_036_933Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 21th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_053_2145Likes.png
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 22th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_055_4429Likes.png
+	
+
+>>> Error : No person is detected from the given picture!
+>>> Error in 23th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_056_2077Likes.png
+	
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 25th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_064_1374Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 27th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_069_1020Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 28th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_071_3404Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 33th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_097_1271Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 37th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_108_2616Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 50th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_153_1810Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 52th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_159_1609Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 56th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_167_2378Likes.png
+
+>>> Warning : More than 1 person is detected from the given picture!
+>>> Warning in 58th file : ../data/pictures_fashionandstyle.official/fashionandstyle.official_170_2165Likes.png
+
+>>> Finished setting palette dict!
+
+>>> Successfully saved 56 results into json!
+
+>>> Successfully saved 56 bbox lists into json!
